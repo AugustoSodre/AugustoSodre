@@ -9,8 +9,8 @@
 
 ## My Latest Creations:
 
-* [Digital Catalog](https://github.com/AugustoSodre/Digital-Catalog) - A simples digital catalog Web Application using Go, HTML/CSS and PostgreSQL
-  
+* [Digital Catalog](https://github.com/AugustoSodre/Digital-Catalog) - A simple digital catalog Web Application using Go, HTML/CSS and PostgreSQL
+* xxx  
 
 ```
 * Fork my solutions: Experiment and improve my code!
