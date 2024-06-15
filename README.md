@@ -5,7 +5,7 @@
 * C: The language that whispers wisdom.
 * Go: Versatile, good for building things fast.
 * HTML/CSS: Shaping the visual of the web.
-* Linux: My playground, where I duel the command line beast.
+* Linux: My playground, where I duel the command line.
 
 ## My Latest Creations:
 
