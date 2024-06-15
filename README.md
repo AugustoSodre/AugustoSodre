@@ -2,10 +2,10 @@
 ## I'm a software alchemist, experimenting code using:
 
 * Java: My trusty cauldron for crafting robust applications.
-* C: The ancient language that whispers wisdom of efficiency.
-* Go: Swift and versatile, perfect for building things fast.
-* HTML/CSS: Shaping the visual tapestry of the web.
-* Linux: My playground, where I tame the command line beast.
+* C: The language that whispers wisdom.
+* Go: Versatile, good for building things fast.
+* HTML/CSS: Shaping the visual of the web.
+* Linux: My playground, where I duel the command line beast.
 
 ## My Latest Creations:
 
