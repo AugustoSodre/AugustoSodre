@@ -18,4 +18,6 @@
 * Connect with me: [Linkedin](https://www.linkedin.com/in/augusto-sodr%C3%A9-8167352a6/)
 ```
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoSodre)](https://github.com/AugustoSodre/github-readme-stats)
+
 AugustoSodre/AugustoSodre is a 🐱‍👤 special repository
