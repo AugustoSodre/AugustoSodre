@@ -12,11 +12,9 @@
 * [Digital Catalog](https://github.com/AugustoSodre/Digital-Catalog) - A simple digital catalog Web Application using Go, HTML/CSS and PostgreSQL
 * xxx  
 
-```
-* Fork my solutions: Experiment and improve my code!
-* Raise an issue: Report any bugs or suggest new features (like adding a dragon in the UI 🤷‍♂️)
-* Connect with me: [Linkedin](https://www.linkedin.com/in/augusto-sodr%C3%A9-8167352a6/)
-```
+
+
+### Connect with me: [Linkedin](https://www.linkedin.com/in/augusto-sodr%C3%A9-8167352a6/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoSodre)](https://github.com/AugustoSodre/github-readme-stats)
 
