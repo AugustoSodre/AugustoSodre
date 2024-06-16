@@ -1,4 +1,4 @@
-# **Welcome to the Code Cauldron of Augusto Sodré!** 🙌
+# **Welcome to the Code Cauldron of Augusto Sodré!** 👀
 ## I'm a software alchemist, experimenting code using:
 
 * Java: My trusty cauldron for crafting robust applications.
