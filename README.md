@@ -1,7 +1,7 @@
 # **Welcome to the Code Cauldron of Augusto Sodré!** 👀
 ## I'm a software alchemist, experimenting code using:
 
-* Java: My trusty cauldron for crafting robust applications.
+* Java: My trusty language for making robust applications.
 * C: The language that whispers wisdom.
 * Go: Versatile, good for building things fast.
 * HTML/CSS: Shaping the visual of the web.
