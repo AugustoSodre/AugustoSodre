@@ -1,5 +1,5 @@
-# **Welcome to the Code Cauldron of Augusto Sodré!** 👀
-## I'm a software alchemist, experimenting code using:
+# **Welcome to my place!**
+## I'm a CS student playing around with:
 
 * Java: My trusty language for making robust applications.
 * C: The language that whispers wisdom.
