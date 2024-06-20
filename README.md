@@ -1,11 +1,11 @@
 # **Welcome to my place!**
 ## I'm a CS student playing around with:
 
-* Java: My trusty language for making robust applications.
-* C: The language that whispers wisdom.
-* Go: Versatile, good for building things fast.
+* Java: My language for making robust applications.
+* C: It whispers wisdom.
+* Go: Good for building things fast.
 * HTML/CSS: Shaping the visual of the web.
-* Linux: My playground, where I duel the command line.
+* Linux: My playground... where I duel the command line.
 
 ## My Latest Creations:
 
