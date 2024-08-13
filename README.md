@@ -4,6 +4,7 @@
 * Java: My language for making robust applications.
 * C: It whispers wisdom.
 * Go: Good for building things fast.
+* PHP: The old uncle everyone needs at the end of the day
 * HTML/CSS: Shaping the visual of the web.
 * Linux: My playground... where I duel the command line.
 
