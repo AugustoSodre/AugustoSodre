@@ -10,6 +10,7 @@
 
 ## My Latest Creations:
 
+* [Portfolio](https://augustosodre.github.io/Portfolio/) - My full academical/professional portfolio
 * [Digital Catalog](https://github.com/AugustoSodre/Digital-Catalog) - A simple digital catalog Web Application using Go, HTML/CSS and PostgreSQL
 * [PHP Login System](https://github.com/AugustoSodre/PHP_Login_System) - A PHP Login System using MySQL and Apache through XAMPP.
 
