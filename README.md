@@ -5,7 +5,6 @@
 * C: It whispers wisdom.
 * Go: Good for building things fast.
 * PHP: The old uncle everyone needs at the end of the day
-* HTML/CSS: Shaping the visual of the web.
 * Linux: My playground... where I duel the command line.
 
 ## My Latest Creations:
@@ -17,7 +16,3 @@
 
 
 ### Connect with me: [Linkedin](https://www.linkedin.com/in/augusto-sodr%C3%A9-8167352a6/)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoSodre)](https://github.com/AugustoSodre/github-readme-stats)
-
-AugustoSodre/AugustoSodre is a 🐱‍👤 special repository
