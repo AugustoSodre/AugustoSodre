@@ -16,6 +16,9 @@ I'm a Computer Science student crafting cool stuff with code. Here's what I tink
 - **[Tsundoku](https://github.com/AugustoSodre/Tsundoku)** - A web organizer for DnD 5E characters, powered by PHP, MySQL, and Bootstrap.
 - **[Travel Agency System](https://github.com/AugustoSodre/Agencia-Viagens)** - A Java and MariaDB system for managing travel clients, packages, and orders via terminal.
 
+## My Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSodre&layout=compact&theme=dracula)
+
 ## Let's Connect!
 
 Reach out on **[LinkedIn](https://www.linkedin.com/in/augusto-s-lima-8167352a6/)** or explore my repos to see what I'm cooking up next!
