@@ -3,7 +3,7 @@
 I'm a Computer Science student crafting cool stuff with code. Here's what I tinker with:
 
 - **Java**: Building robust apps.
-- **C**: Low-level wizardry for the soul.
+- **C**: Low-level wizardry.
 - **Go**: Speedy solutions for modern problems.
 - **PHP**: The trusty tool for web magic.
 - **Python**: Scripting, automating, and solving problems with flair.
