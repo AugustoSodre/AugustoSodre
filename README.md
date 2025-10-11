@@ -1,4 +1,4 @@
-# Hey, Welcome!
+# Augusto Sodré C. Lima
 
 I'm a Computer Science student crafting cool stuff with code. Here's what I tinker with:
 
