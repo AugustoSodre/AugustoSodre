@@ -39,7 +39,6 @@ Terminal-based travel booking and management system.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSodre&layout=compact&theme=dracula)
 
----
 
 ## Connect
 
