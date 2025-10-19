@@ -1,15 +1,17 @@
 # Augusto Sodré C. Lima
-
-> *“Be like water, my friend”* — *Bruce Lee*
-
 **Computer Science student at UniCEUB (4th semester)**  
-Guided by the Kaizen phylosophy - the Japanese principle of *“continuous improvement”*, my work reflects an iterative mindset: building, analyzing, and improving.
+> *“Be like water, my friend”* — *Bruce Lee*
 
 
 ## Technologies
 
-
-**Java** · **C** · **TypeScript** · **Groovy** · **PHP** · **Python** · **Linux**
+- Java
+- C
+- TypeScript
+- Groovy
+- PHP
+- Python
+- Linux
 
 
 ## Selected Projects
