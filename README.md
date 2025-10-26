@@ -1,4 +1,4 @@
-# Augusto Sodré C. Lima
+# Augusto S. Lima
 **Computer Science student at UniCEUB (4th semester)**  
 > *“Be like water, my friend”* — *Bruce Lee*
 
@@ -14,10 +14,10 @@
 - Linux
 
 
-## Selected Projects
+## Some Projects
 
 ### [Linketinder](https://github.com/AugustoSodre/Linketinder)
-Recruitment platform connecting candidates and companies through an interactive CLI.  
+Full-Stack recruitment platform connecting candidates and companies through an interactive CLI or Web Frontend.  
 **Tech:** Groovy, TypeScript, PostgreSQL
 
 ### [Portfolio](https://augustosodre.github.io/Portfolio/)
