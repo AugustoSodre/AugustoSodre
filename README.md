@@ -1,6 +1,6 @@
 # Augusto S. Lima
 
-**Computer Science student at UniCEUB (4th semester)**
+**Computer Science student at UniCEUB (5th semester)**
 
 > *“Be like water, my friend”* — *Bruce Lee*
 
