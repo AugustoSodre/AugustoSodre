@@ -24,7 +24,7 @@ Recruitment platform that matches candidates and companies by skills. Groovy bac
 
 ### [AutoMatch](https://github.com/AugustoSodre/AutoMatch)
 
-Team project: a vehicle recommendation platform split into three services. I coordinated the 7-person team, did most of the Angular front end ([AutoMatch-Front](https://github.com/AugustoSodre/AutoMatch-Front)) and the first version of the PyTorch recommendation model ([Deep-Learning-Match-Automatch](https://github.com/AugustoSodre/Deep-Learning-Match-Automatch)), which a teammate rewrote for the final version.
+Team project: a vehicle recommendation platform split into three services. I coordinated the 7-person team, did most of the Angular front end ([AutoMatch-Front](https://github.com/AugustoSodre/AutoMatch-Front)) and the first version of the PyTorch recommendation model ([Deep-Learning-Match-Automatch](https://github.com/AugustoSodre/Deep-Learning-Match-Automatch)), which [Pedro Antonio](https://github.com/PedroAntn) rewrote for the final version.
 
 **Tech:** Angular, TypeScript, Python, PyTorch, FastAPI, Node.js
 
